@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IsraelSantosV
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning back-end development
